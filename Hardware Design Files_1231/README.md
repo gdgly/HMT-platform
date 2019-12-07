@@ -1,0 +1,1 @@
+Hardware source files used for Altium Designer (AD).

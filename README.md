@@ -3,5 +3,5 @@
 ## Brife description:
  - ***Embedded Source Files***: All codes running on embedded devices;
  - ***Hardware Design Files***: PCB-doc files used for hardware design;
- - ***Visualization Software***: 
+ - ***Visulization Software***: Source files of software used for data processing & UI presentation.
 
