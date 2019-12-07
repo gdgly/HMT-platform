@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SCL Pin=U2-43
+Removed Pin From Net: NetName=SDA Pin=U2-45
+Added Pin To Net: NetName=SDA Pin=U2-43
+Added Pin To Net: NetName=SCL Pin=U2-45
+Added Room: Name=ARDevelopmentPlat

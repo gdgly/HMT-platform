@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=C103-1
+Removed Pin From Net: NetName=GND Pin=C103-2
+Removed Member From Class: ClassName=ARDevelopmentPlat Member=C104
+Change Component Designator: OldDesignator=C104 NewDesignator=C103
+Added Room: Name=ARDevelopmentPlat

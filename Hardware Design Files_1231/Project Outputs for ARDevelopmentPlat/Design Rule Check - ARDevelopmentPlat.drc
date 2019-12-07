@@ -1,0 +1,44 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\HaiPiao\Desktop\ARDevelopmentPlat_1231\ARDevelopmentPlat.PcbDoc
+Date     : 2016/1/4
+Time     : 10:59:54
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=15mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=12mil) (MaxHoleWidth=30mil) (PreferredHoleWidth=12mil) (MinWidth=20mil) (MaxWidth=50mil) (PreferedWidth=20mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=40mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Preferred=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 1mil, Vertical Gap = 1mil ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Preferred=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 1mil, Vertical Gap = 1mil ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:00

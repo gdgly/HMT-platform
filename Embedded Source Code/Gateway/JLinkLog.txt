@@ -1,0 +1,27 @@
+
+T2574 000:431 SEGGER J-Link V4.80g Log File (0000ms, 0274ms total)
+T2574 000:431 DLL Compiled: Feb 13 2014 20:50:02 (0001ms, 0275ms total)
+T2574 000:431 Logging started @ 2016-11-11 17:07 (0001ms, 0275ms total)
+T2574 000:432 JLINK_SetWarnOutHandler(...) (0000ms, 0275ms total)
+T2574 000:432 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N: 304427361
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFULL  returns O.K. (0269ms, 0544ms total)
+T2574 000:701 JLINK_SetErrorOutHandler(...) (0000ms, 0544ms total)
+T2574 000:701 JLINK_ExecCommand("ProjectFile = "E:\姿态识别平台\完整版\多传感器 - UWB-sycn - 按键\JLinkSettings.ini"", ...)  returns 0x00 (0001ms, 0545ms total)
+T2574 000:709 JLINK_ExecCommand("Device = STM32F103RC", ...)Device "STM32F103RC" selected (256 KB flash, 48 KB RAM).  returns 0x00 (0008ms, 0553ms total)
+T2574 000:717 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0553ms total)
+T2574 000:717 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0553ms total)
+T2574 000:717 JLINK_GetDLLVersion()  returns 48007 (0000ms, 0553ms total)
+T2574 000:717 JLINK_GetFirmwareString(...) (0000ms, 0553ms total)
+T2574 000:733 JLINK_GetDLLVersion()  returns 48007 (0000ms, 0553ms total)
+T2574 000:733 JLINK_GetCompileDateTime() (0000ms, 0553ms total)
+T2574 000:735 JLINK_GetFirmwareString(...) (0000ms, 0553ms total)
+T2574 000:739 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0553ms total)
+T2574 000:749 JLINK_TIF_Select(JLINKARM_TIF_JTAG)  returns 0x00 (0006ms, 0559ms total)
+T2574 000:755 JLINK_SetSpeed(2000) (0001ms, 0560ms total)
+T2574 000:756 JLINK_GetIdData(...) >0x2F8 JTAG>TotalIRLen = ?, IRPrint = 0x..000000000000000000000000 >0x30 JTAG>STM32F1xxx: Can not attach to CPU. Trying connect under reset. >0x2F8 JTAG>TotalIRLen = ?, IRPrint = 0x..000000000000000000000000 >0x30 JTAG> (0120ms, 0680ms total)
+T2574 002:207 JLINK_Close() (0001ms, 0681ms total)
+T2574 002:207  (0001ms, 0681ms total)
+T2574 002:207 Closed (0001ms, 0681ms total)

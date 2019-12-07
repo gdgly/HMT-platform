@@ -1,0 +1,21 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ARDevelopmentPlat.PrjPCB|ReportField=ProjectFullPath~E:\工作\姿态识别\ARDevelopmentPlat_1231\ARDevelopmentPlat.PrjPCB|ReportField=Title~Bill of Materials For Project [ARDevelopmentPlat.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~36|ReportField=ReportTime~10:11:41|ReportField=ReportDate~2016/10/12|ReportField=ReportDateTime~2016/10/12 10:11:41|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016/10/12|ReportField=CurrentTime~10:11:39|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\工作\姿态识别\ARDevelopmentPlat_1231\ARDevelopmentPlat.SchDoc|ReportField=DocumentName~ARDevelopmentPlat.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/1/1|ReportField=Organization~|ReportField=ProjectName~ARDevelopmentPlat.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~ARDevelopmentPlat.PrjPCB|ReportField=DataSourceFullPath~E:\工作\姿态识别\ARDevelopmentPlat_1231\ARDevelopmentPlat.PrjPCB
+Cap|Capacitor|C1, C2, C4, C101, C102, C103|RC0603|Cap|6
+10uF|Electrolytic Capacitor|C3|RC0805|cap_polarity2|1
+104|Capacitor|C5, C10, C11, C12, C13|RC0603|CAP1|5
+22pF|Capacitor|C8, C9|RC0603|CAP1|2
+106|Capacitor|C14|RC0805|CAP1|1
+TFCard||CNTF1|MICRO SD|TFCard|1
+LED0|Typical INFRARED GaAs LED|D1, D2|LED0805|LED0|2
+Header 4X2|Header, 4-Pin, Dual row|P1|HDR2X4|Header 4X2|1
+Header 2|Header, 2-Pin|P2|HDR1X2|Header 2|1
+Header 8|Header, 8-Pin|P3|HDR1X8|Header 8|1
+510R||R1, R9|RC0603|R|2
+10K||R2, R4, R7|RC0603|R|3
+0R||R3, R6|RC0603|R|2
+1M||R5|RC0603|R|1
+Res2|Resistor|R8|RC0603|Res2|1
+SW-SPST|Single-Pole, Single-Throw Switch|S1|SMT-KEY|SW-SPST|1
+TPS79333||U1, U4|SOT-23-5|TPS79333|2
+STM32F103C8T6||U2|LQFP48|STM32F103C8T6|1
+DW1000||U3|DWM1000|DW1000|1
+8M|Crystal Oscillator|X1|SMD5032|XTAL_SMD|1

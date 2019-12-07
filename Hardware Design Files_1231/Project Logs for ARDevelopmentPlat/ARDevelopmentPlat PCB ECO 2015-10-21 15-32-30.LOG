@@ -1,0 +1,11 @@
+Added Component: Designator=CNTF(MICRO SD)
+Added Pin To Net: NetName=SPI1_NSS Pin=CNTF-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=CNTF-3
+Added Pin To Net: NetName=3V3 Pin=CNTF-4
+Added Pin To Net: NetName=SPI1_SCK Pin=CNTF-5
+Added Pin To Net: NetName=GND Pin=CNTF-6
+Added Pin To Net: NetName=SPI1_MISO Pin=CNTF-7
+Added Pin To Net: NetName=GND Pin=CNTF-9
+Added Pin To Net: NetName=GND Pin=CNTF-9
+Added Member To Class: ClassName=ARDevelopmentPlat Member=Component CNTF TFCard
+Added Room: Name=ARDevelopmentPlat

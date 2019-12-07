@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=PC14 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=PC15 Pin=C7-2
+Removed Member From Class: ClassName=ARDevelopmentPlat Member=C6
+Removed Member From Class: ClassName=ARDevelopmentPlat Member=C7
+Added Pin To Net: NetName=DWM_WAKEUP Pin=U2-18
+Added Pin To Net: NetName=DWM_RSTN Pin=U2-19
+Added Pin To Net: NetName=DRDY Pin=U2-46
+Added Room: Name=ARDevelopmentPlat

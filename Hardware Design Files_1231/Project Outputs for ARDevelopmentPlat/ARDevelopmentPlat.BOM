@@ -1,0 +1,25 @@
+Bill of Material for 
+On 2016/10/19 at 19:32:06
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0R                  RC0603           2    R3, R6                                            
+ 104                 RC0603           5    C5, C10, C11, C12, C13       Capacitor            
+ 106                 RC0805           1    C14                          Capacitor            
+ 10K                 RC0603           3    R2, R4, R7                                        
+ 10uF                RC0805           1    C3                           Electrolytic Capacitor 
+ 1M                  RC0603           1    R5                                                
+ 22pF                RC0603           2    C8, C9                       Capacitor            
+ 510R                RC0603           2    R1, R9                                            
+ 8M                  SMD5032          1    X1                           Crystal Oscillator   
+ Cap                 RC0603           6    C1, C2, C4, C101, C102, C103 Capacitor            
+ DW1000              DWM1000          1    U3                                                
+ Header 2            HDR1X2           1    P2                           Header, 2-Pin        
+ Header 4X2          HDR2X4           1    P1                           Header, 4-Pin, Dual row 
+ Header 8            HDR1X8           1    P3                           Header, 8-Pin        
+ LED0                LED0805          2    D1, D2                       Typical INFRARED GaAs LED 
+ Res2                RC0603           1    R8                           Resistor             
+ STM32F103C8T6       LQFP48           1    U2                                                
+ SW-SPST             SMT-KEY          1    S1                           Single-Pole, Single-Throw Switch 
+ TFCard              MICRO SD         1    CNTF1                                             
+ TPS79333            SOT-23-5         2    DW_Power, U1                                      

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=X1 Old Footprint=SMD49S New Footprint=SMD5032
+Added Member To Class: ClassName=ARDevelopmentPlat Member=Component C103 Cap
+Added Room: Name=ARDevelopmentPlat

@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=3V3 Pin=C17-2
+Removed Pin From Net: NetName=3V3 Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=PB15 Pin=J6-3
+Removed Pin From Net: NetName=PB13 Pin=J6-4
+Removed Pin From Net: NetName=PB12 Pin=J6-5
+Removed Pin From Net: NetName=NRST Pin=J6-6
+Removed Pin From Net: NetName=PB1 Pin=J6-7
+Removed Pin From Net: NetName=PA0 Pin=S2-1
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=PB7 Pin=U4-5
+Removed Pin From Net: NetName=PB6 Pin=U4-6
+Removed Pin From Net: NetName=GND Pin=U4-7
+Removed Pin From Net: NetName=3V3 Pin=U4-8
+Removed Member From Class: ClassName=STM32_Smart Member=C17
+Removed Member From Class: ClassName=STM32_Smart Member=J6
+Removed Member From Class: ClassName=STM32_Smart Member=S2
+Removed Member From Class: ClassName=STM32_Smart Member=U4
+Added Component: Designator=R6(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=PB11 Pin=R6-2
+Added Net: Name=DW_LED_RX
+Added Net: Name=DW_LED_TX
+Added Net: Name=DW_VCC
+Added Net: Name=DWM_RSTN
+Added Net: Name=DWM_WAKEUP
+Added Net: Name=EXTON
+Added Net: Name=G0
+Added Net: Name=G1
+Added Net: Name=G4
+Added Net: Name=G5
+Added Net: Name=G6
+Added Net: Name=SYNC
+Change Class Name : Old Net Name=STM32_Smart New Net Name=ARDevelopmentPlat
+Added Member To Class: ClassName=ARDevelopmentPlat Member=Component R6 Res2
+Added Room: Name=ARDevelopmentPlat
